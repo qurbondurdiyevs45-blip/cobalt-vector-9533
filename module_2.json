@@ -1,0 +1,15 @@
+{
+  "name": "cobalt-vector-9533",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1429,
+    "createdAt": "2026-09-12T14:04:07.524Z"
+  }
+}
